@@ -25,7 +25,7 @@ PRODUCTS = [{
     'id': 0,
     'name': 'Sample Product 1',  # product name
     'desc': 'Sample Product 1 Description Lorem Ipsum',  # product Description
-    'image': 'C:/Users/sohai/Desktop/telebot/shoppingbag-.jpg',  # full path of product image
+    'image': 'shoppingbag-.jpg',  # full path of product image
     'price': 150 # price in USD
 }]
 
